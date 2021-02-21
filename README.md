@@ -1,10 +1,21 @@
-# 开腾网络-KTCYL内容社交电商-微信小程序电商
+#企业资源整合_客户资源重复利用_客户圈客户群_让 你的客户与客户之间创造更多的价值
 
-#### 介绍
-KTCYL内容社交电商-微信小程序电商核心技术TP5+Mysql+原生小程序 目前仅支持小程序、会员、分销、商户入住、问答、知识库、短视频、核销、发货等功能，前后端“全部”开源，方便二开。利用资源整合，联合同行产业链上下游。我们 使命：利用互联网助力企业产业链抱团取暖，共同发展。资源共享、技能共享；
+ **商业逻辑：** 
+1：增强园区/孵化基地/相邻企业之间相互沟通；
 
+2：促进企业与企业之间的内循环，扩大内需；
 
-![输入图片说明](https://images.gitee.com/uploads/images/2020/1104/145323_aa8d7f20_4940443.jpeg "555.jpg")
+3：企业进行推荐客户并且成交客获取部分佣金，扩大外需；
+
+4：从外部拉一个企业用户进来，能把所有需求锁定再园区内。增加一个客户再园区的消费频次；
+
+ **逻辑** 
+ **产业园区平台逻辑** 
+
+![输入图片说明](https://images.gitee.com/uploads/images/2021/0221/111022_53d167ae_4940443.png "产业园区.png")
+
+ **孵化基地平台逻辑** 
+![输入图片说明](https://images.gitee.com/uploads/images/2021/0221/111037_750af16a_4940443.png "孵化基地.png")
 
 
 演示后台：
@@ -17,6 +28,8 @@ ktcyl.hnktwl.com/admin
 ###  客服二维码
 ![输入图片说明](https://images.gitee.com/uploads/images/2020/0721/184544_98f5627e_4940443.jpeg "kf.jpg")
 
+
+以下为摄影行业演示：凸显摄影行业的店铺佣金
 ![输入图片说明](https://images.gitee.com/uploads/images/2020/0721/183910_2c726107_4940443.png "1.png")
 ![输入图片说明](https://images.gitee.com/uploads/images/2020/0721/183923_93d83d46_4940443.jpeg "2.jpg")
 ![输入图片说明](https://images.gitee.com/uploads/images/2020/0721/183957_9da87000_4940443.png "3.png")
@@ -30,5 +43,14 @@ ktcyl.hnktwl.com/admin
 ![输入图片说明](https://images.gitee.com/uploads/images/2020/0721/184144_31b93b55_4940443.png "微信图片_20200721184129.png")
 ![输入图片说明](https://images.gitee.com/uploads/images/2020/1104/145323_aa8d7f20_4940443.jpeg "555.jpg")
 
-购买链接：
-https://item.taobao.com/item.htm?spm=a230r.1.14.118.4f7446a91tWp64&id=623793914174&ns=1&abbucket=17#detail
+
+
+
+更新排期文档：
+【腾讯文档】内容（可查看）
+https://docs.qq.com/sheet/DWkdSQ3REd3FreGF6
+
+更新文档：功能需求征集中（可编辑）
+【腾讯文档】平台能够发布商品，未入驻或者已入入驻的上架都可以带货，并且产生带货佣金
+https://docs.qq.com/sheet/DWkdqUlJLaURWRWR5
+
