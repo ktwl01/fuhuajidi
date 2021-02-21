@@ -30,7 +30,7 @@ ktcyl.hnktwl.com/admin
  QQ号:2383177967 
  :fa-fax: 联系电话：15574854597
 ###  客服二维码
-![输入图片说明](https://images.gitee.com/uploads/images/2020/0721/184544_98f5627e_4940443.jpeg "kf.jpg")
+![输入图片说明](https://images.gitee.com/uploads/images/2020/1104/145323_aa8d7f20_4940443.jpeg "555.jpg")![输入图片说明](https://images.gitee.com/uploads/images/2020/0721/184544_98f5627e_4940443.jpeg "kf.jpg")
 
 
 以下为摄影行业演示：凸显摄影行业的店铺佣金
@@ -45,7 +45,7 @@ ktcyl.hnktwl.com/admin
 ![输入图片说明](https://images.gitee.com/uploads/images/2020/0721/184047_6d6cbe69_4940443.png "9.png")
 ![输入图片说明](https://images.gitee.com/uploads/images/2020/0721/184107_3bc977c0_4940443.png "10.png")
 ![输入图片说明](https://images.gitee.com/uploads/images/2020/0721/184144_31b93b55_4940443.png "微信图片_20200721184129.png")
-![输入图片说明](https://images.gitee.com/uploads/images/2020/1104/145323_aa8d7f20_4940443.jpeg "555.jpg")
+
 
 
 
